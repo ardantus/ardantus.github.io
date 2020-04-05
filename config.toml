@@ -1,0 +1,26 @@
+baseURL = "http://ardantus.github.io/"
+languageCode = "en-us"
+title = "Kuli Ketik"
+
+# Agar front-matter pakai format YAML
+MetaDataFormat = "yaml"
+
+# untuk apply temanya
+themesDir = "themes"
+theme = "ardan"
+
+# Shortname disqus, silahkan sesuaikan
+DisqusShortname = "ardantus"
+
+# Untuk Google Analytic, silahkan sesuikan
+googleAnalytics = "UA-80517197-2" 
+
+# Untuk deskripsi tag meta di homepage
+description = "Blog Pengguna Linux"
+
+# Biodata Author
+[author]
+    name = "Ardan"
+    homepage = "https://twitter.com/ardantus"
+    bio = "Kang Gorengan"
+    image = "https://lh5.googleusercontent.com/-h2tLsyijw8Q/AAAAAAAAAAI/AAAAAAAACys/WBpjN_34z3o/s32-c/photo.jpg"
